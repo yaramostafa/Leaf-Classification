@@ -3,14 +3,19 @@ Description
 
 Data Description:
 The Leaf Classification dataset contains images of various types of leaves.
+
 Data Cleaning:
 Identify and address any inconsistencies or anomalies in the dataset.
+
 Handling Missing Values and Duplicates:
 Check for missing values and duplicates in the dataset and apply appropriate correction methods.
+
 Data Visualization:
 Utilize proper visualization methods to gain insights into the dataset.
+
 Image Display:
 Display some sample images from the dataset.
+
 Correlation Analysis:
 Perform correlation analysis to understand the relationships between different features.
 

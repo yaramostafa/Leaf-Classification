@@ -19,19 +19,18 @@ Display some sample images from the dataset.
 Correlation Analysis:
 Perform correlation analysis to understand the relationships between different features.
 
+Data Splitting:
+Divide the dataset into training and test sets, allocating approximately 80% for training.
+
+Data Standardization:
+Determine if standardization is necessary by computing the mean and standard deviation for each feature dimension using only the training set.
+
+Label Encoding:
+Encode the labels for classification tasks.
+
 ## Part II: Training a Neural Network
 
-Data Splitting:
-
-Divide the dataset into training and test sets, allocating approximately 80% for training.
-Data Standardization:
-
-Determine if standardization is necessary by computing the mean and standard deviation for each feature dimension using only the training set.
-Label Encoding:
-
-Encode the labels for classification tasks.
 Model Implementation:
-
 Design and implement a CNN model for leaf classification.
 Training Function:
 
